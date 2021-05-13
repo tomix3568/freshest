@@ -1,0 +1,96 @@
+body {
+    background-image: url(homeChef.jpg);
+    background-color: #222;
+    background-repeat: no-repeat;
+    background-size: 1800px;
+    
+
+}
+
+#nav {
+    display: flex;
+    justify-content: space-between; 
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    
+    
+    
+    
+}
+#navLeft {
+    justify-content: flex-start;
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 55px;
+    margin-bottom: 1px;
+    padding-bottom: 0px;
+    
+
+}
+#navRight {
+    justify-content: flex-end;
+    font-size: 14px;
+    margin-right: 35px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-top: 4px;
+
+    
+}
+a {
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    margin-right: 19px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    
+}
+#line1 {
+    width: 1415px;
+    height: 1px;
+    background-color: white;
+    margin-top: 2px;
+    padding-top: 0px
+}
+
+.flex-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    margin-bottom: 5px;
+    
+}
+
+#line2 {
+    width: 500px;
+    background-color: white;
+    height: 1px;
+    display: flex;
+    justify-content: center;
+    margin: 15px 0px 9px 0px;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 00;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    
+    
+}
+

@@ -1,0 +1,123 @@
+body {
+    padding: 0; margin: 0;
+}
+
+#container1 {
+    display:inline-flex;
+    clear: both;
+}
+#rye{
+    float:left;
+    padding: 0; margin: 0;
+    
+}
+
+#rye img {
+    width: 400px;
+    height: 400px;
+}
+
+#ryeText {
+    text-align: left;
+    background-color: #050505;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    
+    height: 400px;
+    width: 1200px
+}
+#ryeText h3 {
+    font-size: 36px;
+    font-weight: 600;
+    padding-top: 100px;
+    padding-left: 100px;
+    
+}
+#ryeText p {
+    font-size: 22px;
+    font-weight: 100;
+    padding-left: 100px;
+    
+}
+
+#container2 {
+    display: inline-flex;
+    clear: both;
+}
+
+#one {
+    background-color: #222;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    padding: 100px 0px 100px 50px;
+    padding: 0; margin: 0;
+    text-align: left;
+    width: 1119px;
+    height: 400px;
+
+}
+
+#two {
+    float: right;
+    padding: 0; margin: 0;
+    
+    
+}
+
+#one #two {
+    float: left;
+}    
+#two img {
+    width: 400px;
+    height: 400px;
+}  
+
+#one h3 {
+    font-size: 36px;
+    font-weight: 600;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+#one p {
+    font-size: 22px;
+    font-weight: 100;
+    padding-left: 100px;
+    
+}
+#container3 {
+    display:inline-flex;
+    clear: both;
+}
+#pasta{
+    float:left;
+    padding: 0; margin: 0;
+    
+}
+
+#pasta img {
+    width: auto;
+    height: 400px;
+}
+
+#pastaText {
+    text-align: left;
+    background-color: #050505;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    
+    height: 400px;
+    width: 1200px
+}
+#pastaText h3 {
+    font-size: 36px;
+    font-weight: 600;
+    padding-top: 100px;
+    padding-left: 100px;
+    
+}
+#pastaText p {
+    font-size: 22px;
+    font-weight: 100;
+    padding-left: 100px;
+    
+}
